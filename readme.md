@@ -4,7 +4,7 @@
 
 Exercise completed as part of Nashville Software School's Back-end (Python) bootcamp, Milestone 3- Database Driven Applications. A demonstration of skills learned at time of creation. See below for instructions followed. 
 
-![Screenshot](challenge-erd-1.jpg)
+![Screenshot](Challenge-ERD-1.jpg)
 
 # Exercise Instructions
 
